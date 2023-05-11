@@ -1,0 +1,16 @@
+.font{
+    background-color:black;color: white;width: 100%;height:70px;text-align: center;font-family: 'Sigmar', cursive; font-size: 45px;
+}
+
+.korean-font{
+    text-align: center; font-size: 5px;color: black;font-family:" BlackHanSans-Regular.ttf"
+}
+
+img {
+     display: inline-block;
+}
+.body{
+    background-image: url("도서관.jpg")path;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
